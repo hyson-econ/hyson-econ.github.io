@@ -22,4 +22,3 @@ I am broadly interested in applied microeconomics and empirical methods.
 ## Contact
 - Email: hyeyeong.son [at] g.skku.edu
 - GitHub: https://github.com/hyson-econ
-- LinkedIn: https://www.linkedin.com/in/hyson-econ/
