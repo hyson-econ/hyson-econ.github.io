@@ -177,14 +177,14 @@ footer {
 }
 
 .profile-links a {
-  color: #a04432;
+  color: var(--accent);
   font-size: inherit;
-  font-weight: 400;
+  font-weight: 600;
   text-decoration: none;
 }
 
 .profile-links a:hover,
 .profile-links a:focus-visible {
-  color: #743024;
+  color: #163f56;
   text-decoration: underline;
 }
