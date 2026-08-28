@@ -80,6 +80,15 @@ section {
   margin-top: 44px;
 }
 
+section a {
+  text-decoration: none;
+}
+
+section a:hover,
+section a:focus-visible {
+  text-decoration: underline;
+}
+
 a {
   color: var(--accent);
   text-decoration-thickness: 1px;
