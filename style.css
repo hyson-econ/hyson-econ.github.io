@@ -99,6 +99,10 @@ section a:focus-visible {
   text-decoration: underline;
 }
 
+.research-description {
+  margin-top: 0.5rem;
+}
+
 a {
   color: var(--accent);
   text-decoration-thickness: 1px;
