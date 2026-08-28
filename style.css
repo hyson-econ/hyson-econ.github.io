@@ -103,6 +103,11 @@ section a:focus-visible {
   margin-top: 0.5rem;
 }
 
+.research-fields {
+  color: var(--text);
+  font-weight: 600;
+}
+
 a {
   color: var(--accent);
   text-decoration-thickness: 1px;
