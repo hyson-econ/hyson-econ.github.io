@@ -153,3 +153,20 @@ footer {
     scroll-behavior: auto;
   }
 }
+
+.profile-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.profile-links a {
+  color: #28704f;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.profile-links a:hover,
+.profile-links a:focus-visible {
+  color: #174b35;
+  text-decoration: underline;
+}
