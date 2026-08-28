@@ -96,6 +96,23 @@ a:focus-visible {
   outline-offset: 4px;
 }
 
+.position,
+.university {
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
+.university a,
+.university a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.university a:hover,
+.university a:focus-visible {
+  text-decoration: underline;
+}
+
 .interests {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -160,13 +177,14 @@ footer {
 }
 
 .profile-links a {
-  color: #28704f;
-  font-weight: 700;
+  color: #a04432;
+  font-size: inherit;
+  font-weight: 400;
   text-decoration: none;
 }
 
 .profile-links a:hover,
 .profile-links a:focus-visible {
-  color: #174b35;
+  color: #743024;
   text-decoration: underline;
 }
